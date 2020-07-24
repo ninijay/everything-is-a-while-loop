@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76576315-7251-4ff6-af7f-e5ed8ac4ee93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BikePusher/BikePusher/Dtos/BikeOverviewDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Avatar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/BackToTheFuture.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Naruto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Owl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/app/bike/bike.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/app/bike/bike.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/app/bike/bike.routing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/app/bike/bike.routing.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/app/data/api/bike.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/app/data/api/bike.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/app/data/model/models.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/app/data/model/models.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BikePusher/BikePusher/Controllers/BikeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BikePusher/BikePusher/Controllers/BikeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BikePusher/BikePusher/Mapper/BikeProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BikePusher/BikePusher/Mapper/BikeProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BikePusher/BikePusher/Services/BikeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BikePusher/BikePusher/Services/BikeService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BikePusher/BikePusher/Services/IBikeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BikePusher/BikePusher/Services/IBikeService.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Loops/BackToTheFuture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Loops/Naruto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Loops/Avatar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Loops/Owl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Loops/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Loops/Owl.cs" />
+        <option value="$PROJECT_DIR$/Loops/Avatar.cs" />
+        <option value="$PROJECT_DIR$/Loops/Naruto.cs" />
+        <option value="$PROJECT_DIR$/Loops/BackToTheFuture.cs" />
+        <option value="$PROJECT_DIR$/Loops/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f97fkVYtcibSQujUNOKcZt8qmp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Loops" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Loops/Loops.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76576315-7251-4ff6-af7f-e5ed8ac4ee93" name="Default Changelist" comment="" />
+      <created>1595618559709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595618559709</updated>
+      <workItem from="1595618565273" duration="6767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1872" height="289" key="GridCell.Tab.0.bottom" timestamp="1595627073064">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595627073064" />
+    <state width="1872" height="289" key="GridCell.Tab.0.center" timestamp="1595627073063">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595627073063" />
+    <state width="1872" height="289" key="GridCell.Tab.0.left" timestamp="1595627073063">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595627073063" />
+    <state width="1872" height="289" key="GridCell.Tab.0.right" timestamp="1595627073064">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595627073064" />
+    <state x="2543" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1595626275975">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595626275975" />
+  </component>
+</project>

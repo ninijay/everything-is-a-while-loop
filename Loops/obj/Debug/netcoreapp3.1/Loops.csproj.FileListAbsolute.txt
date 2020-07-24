@@ -1,0 +1,13 @@
+/home/zanidd/repos/bikepusher/server/Loops/Loops/bin/Debug/netcoreapp3.1/Loops
+/home/zanidd/repos/bikepusher/server/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.deps.json
+/home/zanidd/repos/bikepusher/server/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.json
+/home/zanidd/repos/bikepusher/server/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.dev.json
+/home/zanidd/repos/bikepusher/server/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.dll
+/home/zanidd/repos/bikepusher/server/Loops/Loops/bin/Debug/netcoreapp3.1/Loops.pdb
+/home/zanidd/repos/bikepusher/server/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.csprojAssemblyReference.cache
+/home/zanidd/repos/bikepusher/server/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfoInputs.cache
+/home/zanidd/repos/bikepusher/server/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfo.cs
+/home/zanidd/repos/bikepusher/server/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.csproj.CoreCompileInputs.cache
+/home/zanidd/repos/bikepusher/server/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.dll
+/home/zanidd/repos/bikepusher/server/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.pdb
+/home/zanidd/repos/bikepusher/server/Loops/Loops/obj/Debug/netcoreapp3.1/Loops.genruntimeconfig.cache
